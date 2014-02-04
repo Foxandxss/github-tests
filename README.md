@@ -4,8 +4,8 @@ github-tests :)
 Playgrounda ;-) ;-)
 
 
-# LICENSES
+# LICCENCES
 
-Hello there
+Hello there Iksik
 
 MIT
