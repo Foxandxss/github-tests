@@ -1,4 +1,9 @@
 github-tests
 ============
 
-Playground ;-)
+Playground ;-) ;-)
+
+
+# LICENSE
+
+MIT
