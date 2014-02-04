@@ -1,11 +1,11 @@
-github-tests :)
+github-tests
 ============
  
-Play Grounda ;-) ;-)
+Playgrounda ;-)
  
 Some simple change
  
-# LICCENCES
+# LICENCES
  
 Hello there Iksik
 
