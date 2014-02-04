@@ -11,9 +11,12 @@ npm install awesomenessssss
 npm install -d awesomenesssss
 ```
 
-
 ```
 bower install
+```
+
+```
+component install
 ```
 
 # Welcome
