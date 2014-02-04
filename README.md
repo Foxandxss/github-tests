@@ -7,7 +7,11 @@ Some simple change
  
 Hello there Iksik
 
+# About
+
 More Killer features
+
+# Developers
 
 You there!
  
