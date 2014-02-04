@@ -3,6 +3,14 @@ github-tests
  
 Playgrounda ;-)
 
+```
+npm install awesomenessssss
+```
+
+```
+npm install -d awesomenesssss
+```
+
 # Welcome
 
 Some simple change
