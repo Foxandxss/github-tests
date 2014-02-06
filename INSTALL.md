@@ -1,1 +1,8 @@
-installation process
+;)
+
+install things process
+
+
+TODO:
+
+blabla
