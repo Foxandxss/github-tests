@@ -12,10 +12,6 @@ npm install -d awesomenesssss
 ```
 
 ```
-bower install
-```
-
-```
 component install
 ```
 
