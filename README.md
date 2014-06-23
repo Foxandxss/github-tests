@@ -11,9 +11,6 @@ npm install awesomenessssss
 npm install -d awesomenesssss
 ```
 
-```
-component install
-```
 
 # Welcome
 
