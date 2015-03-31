@@ -11,6 +11,8 @@ npm install awesomenessssss
 npm install -d awesomenesssss
 ```
 
+# Important
+Set all colors to default to #BADA55. Jesus' idea.
 
 # Welcome
 
