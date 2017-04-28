@@ -1,4 +1,4 @@
-Foo bar braz
+Foo bar baz
 Another line here
 
 
