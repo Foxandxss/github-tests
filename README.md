@@ -3,6 +3,8 @@ github-tests
  
 Playgrounda ;-)
 
+This library is awesom
+
 ```
 npm install awesomenessssss
 ```
